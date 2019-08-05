@@ -1,3 +1,8 @@
+A Team Project
+Ali R Apil
+Abe Suzek
+Aydin Yildirim
+
 # Data Sources
 ## Google Employee Review from Kaggle
 The customer review data for the companies is taken from the Kaggle source, including Google, Apple, Microsoft and so on, whereas we will only use Google data after clean up.
